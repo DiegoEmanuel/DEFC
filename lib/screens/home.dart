@@ -40,7 +40,7 @@ class HomeScreen extends StatelessWidget {
       child: Padding(
         padding: const EdgeInsets.symmetric(horizontal: 15.0),
         child: Text(
-          "SIMPLE FLUTTER WEB APP",
+          "DIEGO EFC FLUTTER WEB APP",
           style: theme.textTheme.displayLarge!.copyWith(
             fontSize: ResponsiveHelper.width(context, 0.13),
           ),
